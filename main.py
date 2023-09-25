@@ -2,7 +2,7 @@ import telebot
 
 bot = telebot.TeleBot('6543463555:AAEtz4zegf0TK6oJluePPMG9KJqitmuJtvo')
 
-# Словарь для хранения сообщений и каналов
+# список для хранения каналов
 channels = ['@polezpolez']
 
 
